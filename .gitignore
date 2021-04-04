@@ -128,6 +128,3 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-#
-.devcontainer/library-scripts/
-2021-04-07_Docker/3-docker-compose/db/data/
